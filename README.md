@@ -1,3 +1,3 @@
 # SpringCoreAndSpringBootMastery
 Author = Anish Mankani
-Follow for more such thing
+Follow for more such things
